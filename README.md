@@ -38,7 +38,7 @@ Subsequent response definitions will only detail the expected value of the `data
 	]
 ```
 
-### Registering a new device
+## Registering a new device
 
 **Definitions** 
 
